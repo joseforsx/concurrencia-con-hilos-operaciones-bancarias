@@ -1,10 +1,8 @@
 # concurrencia-con-hilos-operaciones-bancarias
-Este proyecto es un prototipo de software para una cooperativa, desarrollado en Java. El enfoque principal es el uso de **hilos (Threads)** para simular operaciones concurrentes como:  - Registro de empleados - Depósito de efectivo - Retiro de efectivo
 
 ## 📄 Descripción
 
-Este proyecto es un simulador desarrollado en Java que implementa operaciones bancarias concurrentes, utilizando la programación con hilos (`Thread`) y la interfaz `Runnable`.  
-El sistema simula las siguientes funcionalidades de forma concurrente:
+Este proyecto es un prototipo de software educativo, desarrollado en Java. El enfoque principal es el uso de **hilos (Threads)** para simular operaciones concurrentes como:  - Registro de empleados - Depósito de efectivo - Retiro de efectivo
 
 - Registro de empleados
 - Depósito de efectivo
@@ -12,6 +10,8 @@ El sistema simula las siguientes funcionalidades de forma concurrente:
 - Guarda los registros de empleados en un archivo de texto `.txt` para almacenamiento persistente
 
 El objetivo principal es demostrar el manejo de la concurrencia en Java y cómo múltiples hilos pueden interactuar para realizar operaciones simultáneas en un entorno bancario.
+
+Desarrollado en la Universidad Abierta y a Distancia de México (UnADM), durante el semestre 2022-2
 
 ## 🛠️ Tecnologías y conceptos utilizados
 
