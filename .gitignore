@@ -1,0 +1,30 @@
+# NetBeans specific files
+nbproject/private/
+build/
+dist/
+nbdist/
+.nb-gradle/
+
+# Archivos de compilación
+*.class
+
+# Archivos temporales
+*~
+
+# Archivos de log
+*.log
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos empaquetados
+*.jar
+*.war
+*.ear
+
+# Carpeta de dependencias de Gradle (si usas)
+.gradle/
+
+# Carpetas de salida
+build/
